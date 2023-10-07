@@ -18,10 +18,6 @@ Crie uma conta usando seu endereço de e-mail ou faça login com suas credenciai
 Insira suas informações de pagamento para facilitar as transações.
 Comece a solicitar serviços de mototáxi imediatamente!
 
-## Equipe
-Elísio Mualumene - CEO e Fundador
-Amavél António - Desenvolvedora Backend
-
 ## Contato
 Para entrar em contato conosco ou relatar problemas, envie um e-mail para support@rideup.com ou visite nosso site em www.rideup.com.
 
